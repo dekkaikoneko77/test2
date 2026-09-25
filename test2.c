@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("fizz buzzだよ\n");
     int x;
     scanf("%d", &x);
     if (x % 3 == 0) {
